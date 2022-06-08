@@ -1,7 +1,7 @@
 package com.selenanguyen.zookeeper;
 
 public class Mammal {
-	private Integer energyLevel;
+	protected Integer energyLevel;
 
 	
 	// CONSTRUCTOR
